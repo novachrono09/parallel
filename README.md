@@ -1,141 +1,96 @@
-# 🚀 Welcome to Z.ai Code Scaffold
+# 🌀 P A R A L L E L
 
-A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
+> **Explore the lives you never lived.**
 
-## ✨ Technology Stack
+![Parallel App Demo](/public/app-screenshots/SS-2.jpg)
+*(Replace this link with your actual screenshot)*
 
-This scaffold provides a robust foundation built with:
+<div align="center">
 
-### 🎯 Core Framework
-- **⚡ Next.js 16** - The React framework for production with App Router
-- **📘 TypeScript 5** - Type-safe JavaScript for better developer experience
-- **🎨 Tailwind CSS 4** - Utility-first CSS framework for rapid UI development
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Pollinations API](https://img.shields.io/badge/AI-Pollinations-ff00ff?style=for-the-badge)](https://pollinations.ai/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-### 🧩 UI Components & Styling
-- **🧩 shadcn/ui** - High-quality, accessible components built on Radix UI
-- **🎯 Lucide React** - Beautiful & consistent icon library
-- **🌈 Framer Motion** - Production-ready motion library for React
-- **🎨 Next Themes** - Perfect dark mode in 2 lines of code
+[**View Live Demo**](YOUR_VERCEL_LINK_HERE)
 
-### 📋 Forms & Validation
-- **🎣 React Hook Form** - Performant forms with easy validation
-- **✅ Zod** - TypeScript-first schema validation
-
-### 🔄 State Management & Data Fetching
-- **🐻 Zustand** - Simple, scalable state management
-- **🔄 TanStack Query** - Powerful data synchronization for React
-- **🌐 Fetch** - Promise-based HTTP request
-
-### 🗄️ Database & Backend
-- **🗄️ Prisma** - Next-generation TypeScript ORM
-- **🔐 NextAuth.js** - Complete open-source authentication solution
-
-### 🎨 Advanced UI Features
-- **📊 TanStack Table** - Headless UI for building tables and datagrids
-- **🖱️ DND Kit** - Modern drag and drop toolkit for React
-- **📊 Recharts** - Redefined chart library built with React and D3
-- **🖼️ Sharp** - High performance image processing
-
-### 🌍 Internationalization & Utilities
-- **🌍 Next Intl** - Internationalization library for Next.js
-- **📅 Date-fns** - Modern JavaScript date utility library
-- **🪝 ReactUse** - Collection of essential React hooks for modern development
-
-## 🎯 Why This Scaffold?
-
-- **🏎️ Fast Development** - Pre-configured tooling and best practices
-- **🎨 Beautiful UI** - Complete shadcn/ui component library with advanced interactions
-- **🔒 Type Safety** - Full TypeScript configuration with Zod validation
-- **📱 Responsive** - Mobile-first design principles with smooth animations
-- **🗄️ Database Ready** - Prisma ORM configured for rapid backend development
-- **🔐 Auth Included** - NextAuth.js for secure authentication flows
-- **📊 Data Visualization** - Charts, tables, and drag-and-drop functionality
-- **🌍 i18n Ready** - Multi-language support with Next Intl
-- **🚀 Production Ready** - Optimized build and deployment settings
-- **🤖 AI-Friendly** - Structured codebase perfect for AI assistance
-
-## 🚀 Quick Start
-
-```bash
-# Install dependencies
-bun install
-
-# Start development server
-bun run dev
-
-# Build for production
-bun run build
-
-# Start production server
-bun start
-```
-
-Open [http://localhost:3000](http://localhost:3000) to see your application running.
-
-## 🤖 Powered by Z.ai
-
-This scaffold is optimized for use with [Z.ai](https://chat.z.ai) - your AI assistant for:
-
-- **💻 Code Generation** - Generate components, pages, and features instantly
-- **🎨 UI Development** - Create beautiful interfaces with AI assistance  
-- **🔧 Bug Fixing** - Identify and resolve issues with intelligent suggestions
-- **📝 Documentation** - Auto-generate comprehensive documentation
-- **🚀 Optimization** - Performance improvements and best practices
-
-Ready to build something amazing? Start chatting with Z.ai at [chat.z.ai](https://chat.z.ai) and experience the future of AI-powered development!
-
-## 📁 Project Structure
-
-```
-src/
-├── app/                 # Next.js App Router pages
-├── components/          # Reusable React components
-│   └── ui/             # shadcn/ui components
-├── hooks/              # Custom React hooks
-└── lib/                # Utility functions and configurations
-```
-
-## 🎨 Available Features & Components
-
-This scaffold includes a comprehensive set of modern web development tools:
-
-### 🧩 UI Components (shadcn/ui)
-- **Layout**: Card, Separator, Aspect Ratio, Resizable Panels
-- **Forms**: Input, Textarea, Select, Checkbox, Radio Group, Switch
-- **Feedback**: Alert, Toast (Sonner), Progress, Skeleton
-- **Navigation**: Breadcrumb, Menubar, Navigation Menu, Pagination
-- **Overlay**: Dialog, Sheet, Popover, Tooltip, Hover Card
-- **Data Display**: Badge, Avatar, Calendar
-
-### 📊 Advanced Data Features
-- **Tables**: Powerful data tables with sorting, filtering, pagination (TanStack Table)
-- **Charts**: Beautiful visualizations with Recharts
-- **Forms**: Type-safe forms with React Hook Form + Zod validation
-
-### 🎨 Interactive Features
-- **Animations**: Smooth micro-interactions with Framer Motion
-- **Drag & Drop**: Modern drag-and-drop functionality with DND Kit
-- **Theme Switching**: Built-in dark/light mode support
-
-### 🔐 Backend Integration
-- **Authentication**: Ready-to-use auth flows with NextAuth.js
-- **Database**: Type-safe database operations with Prisma
-- **API Client**: HTTP requests with Fetch + TanStack Query
-- **State Management**: Simple and scalable with Zustand
-
-### 🌍 Production Features
-- **Internationalization**: Multi-language support with Next Intl
-- **Image Optimization**: Automatic image processing with Sharp
-- **Type Safety**: End-to-end TypeScript with Zod validation
-- **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
-
-## 🤝 Get Started with Z.ai
-
-1. **Clone this scaffold** to jumpstart your project
-2. **Visit [chat.z.ai](https://chat.z.ai)** to access your AI coding assistant
-3. **Start building** with intelligent code generation and assistance
-4. **Deploy with confidence** using the production-ready setup
+</div>
 
 ---
 
-Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
+## 📖 About
+
+**Parallel** is not just an AI wrapper; it is an engine for introspection.
+
+Every major decision creates a split in reality. A road taken, and a road left behind. This application allows users to simulate those unchosen paths. By combining the **Pollinations.ai Text API** with a deep simulation engine, Parallel generates three distinct, year-by-year timelines of your alternate future—complete with career shifts, emotional arcs, and life-defining moments.
+
+It is designed to be calm, reflective, and deeply personal.
+
+## ✨ Key Features
+
+-   **🔮 Triple Timeline Simulation:** Generates three distinct alternate realities (The Practical Path, The Bold Risk, The Unconventional Turn) based on a single input.
+-   **🌿 Branch Deeper:** Interactive storytelling allows you to click any specific event in a timeline and ask *"What if I made a different choice here?"* to spawn new sub-timelines.
+-   **📊 Emotional Analytics:** Visual comparison of "Happiness," "Wealth," and "Growth" scores across all three realities.
+-   **💾 Local History:** Automatically saves your past simulations to the browser, creating a personal journal of "what ifs."
+-   **🎨 Editorial Design:** A rejection of "cyberpunk/neon" tropes in favor of a warm, sophisticated, typographic-led aesthetic using Earth tones and dark charcoal backgrounds.
+
+## 🛠️ Tech Stack
+
+-   **Framework:** React + Vite
+-   **Styling:** Tailwind CSS (Custom configuration for typography and palettes)
+-   **Animations:** Framer Motion (Orchestrated timeline reveals)
+-   **AI Engine:** [Pollinations.ai](https://pollinations.ai/) (Free, keyless text generation)
+-   **Persistence:** LocalStorage API
+
+## 🎨 Design Philosophy
+
+Parallel was built with a specific mood in mind: **"The Digital Journal."**
+
+Most AI apps use bright neon gradients and dark cold modes. Parallel uses:
+-   **Warm Dark Mode:** Backgrounds are `#0a0a0a` with hints of warmth, not pitch black.
+-   **Typography:** Serif headings for an editorial, magazine feel.
+-   **Palette:** Terracotta, Sage, and Muted Blue to represent different emotional states.
+-   **Atmosphere:** Calm, slow-fade animations that encourage reading and reflection.
+
+## 🚀 Getting Started
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/yourusername/parallel.git
+    cd parallel
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run locally**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Build for production**
+    ```bash
+    npm run build
+    ```
+
+## 🧠 AI Integration
+
+This project uses **Pollinations.ai** for all text generation. It requires no API keys.
+
+The integration handles:
+-   **JSON Enforcement:** Strict prompt engineering to ensure the LLM returns structured data for the timeline visualization.
+-   **Markdown Cleaning:** Robust parsing logic to strip code fences and handle raw text responses.
+-   **Retry Logic:** Automatic retry mechanisms to ensure a smooth user experience even if the AI hiccups.
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+<div align="center">
+  <p>Built with 🖤 and 🌀 by Novachrono<p>
+  <p>Powered by <a href="https://pollinations.ai">Pollinations.ai</a></p>
+</div>
