@@ -3,7 +3,6 @@
 > **Explore the lives you never lived.**
 
 ![Parallel App Demo](/public/app-screenshots/SS-2.jpg)
-*(Replace this link with your actual screenshot)*
 
 <div align="center">
 
@@ -12,7 +11,7 @@
 [![Pollinations API](https://img.shields.io/badge/AI-Pollinations-ff00ff?style=for-the-badge)](https://pollinations.ai/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-[**View Live Demo**](YOUR_VERCEL_LINK_HERE)
+[**View Live Demo**](https://parallelsim.vercel.app/)
 
 </div>
 
@@ -56,7 +55,7 @@ Most AI apps use bright neon gradients and dark cold modes. Parallel uses:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/parallel.git
+    git clone https://github.com/novachrono09/parallel.git
     cd parallel
     ```
 
